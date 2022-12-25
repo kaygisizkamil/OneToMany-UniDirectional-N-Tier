@@ -11,6 +11,12 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "**Clickmeee** ";
 }
 
 .App-header {
