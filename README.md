@@ -8,6 +8,6 @@ your browser "http://localhost:8080/swagger-ui/index.html"
 > :warning: **Little warning xd***: Cascadetype.All used if you delete parent(author) entity books also will be deleted.
 Remember none of the operations on relations cascade by manual, the control is up to you
 Front end is merely implemented not completed .
-![image](https://user-images.githubusercontent.com/96066271/209255161-963994fe-f9ae-45b0-a910-0f374b8d7836.png)
+![image](https://user-images.githubusercontent.com/96066271/209485315-e8a21f30-e56c-4662-9c61-9eabd1b2355e.png)
 
 
